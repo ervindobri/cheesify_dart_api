@@ -1,4 +1,4 @@
-name: CheeseAPI
+name: cheesify_dart_api
 description: Sample HTTP REST API with static JSON file as backend
 
 environment:
