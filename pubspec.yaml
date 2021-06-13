@@ -1,6 +1,5 @@
-name: serveTestData
+name: CheeseAPI
 description: Sample HTTP REST API with static JSON file as backend
-homepage: https://devowl.de
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

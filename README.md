@@ -1,2 +1,2 @@
-# dart_backend_example
-Dart backend example, webserver to showcase how to use Dart on a server
+# cheese_dart_api
+Dart REST API for a cheese collection.
